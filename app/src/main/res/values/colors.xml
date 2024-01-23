@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fo_black">#FF000000</color>
+    <color name="fo_transparent">#00000000</color>
+    <color name="fo_white">#FFFFFFFF</color>
+    <color name="fo_dark_red_1">#D10A0C</color>
+    <color name="fo_dark_red_2">#CF0B0C</color>
+    <color name="fo_grey">#9A9A9A</color>
+    <color name="fo_light_grey">#B3B3B3</color>
+    <color name="fo_light_blue">#0277BD</color>
+</resources>
